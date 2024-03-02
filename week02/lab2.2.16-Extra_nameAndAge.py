@@ -4,6 +4,6 @@
 
 name = input ("Enter your name: ")
 age = input ("What is your age? ")
-print ("Hello " + name + "," + " your age is " + age + ".")
+print ("Hello " + name + "," + " \tyour age is " + age + ".")
 
 
