@@ -9,6 +9,6 @@ print ("Hello")
 name = "Monika"
 print('hello '+ name)
 '''
-print ("Hello Monika"
+print ("Hello Monika")
 
 # the above won't work
