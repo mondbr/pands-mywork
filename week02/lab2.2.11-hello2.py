@@ -13,6 +13,7 @@ name = input ("Enter your name: ")
 print ("Hello " + name + '\nNice to meet you')
 
 
+
 # alternative code:
 '''
 print(f'Hello {name} \nNice to meet you')
