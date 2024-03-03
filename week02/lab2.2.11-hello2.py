@@ -8,11 +8,12 @@ name = input ('Enter your name: ')
 print ("Hello "+ name)
 '''
 
+# Ask for a name and print a greetings with that name
 name = input ("Enter your name: ")
 print ("Hello " + name + '\nNice to meet you')
 
 
-# or this format 
+# alternative code:
 '''
 print(f'Hello {name} \nNice to meet you')
 '''
