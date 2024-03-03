@@ -3,14 +3,14 @@
 # author: Monika Dabrowska
 
 
-#creating a input for initial number
+# creating a input for initial number
 number = int(input('please enter a number'))
 
 
-#creating a calcualtion = initial number + 1
+# creating a calcualtion = initial number + 1
 newNumber = number + 1
 
 
-#printing output
+# printing output
 print (f'{number} plus one is {newNumber}')
  
