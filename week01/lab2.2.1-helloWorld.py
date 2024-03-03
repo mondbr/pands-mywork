@@ -1,5 +1,5 @@
 # helloWorld.py
-# This program just prints out hello World
+# This program just prints out Hello World
 # author: Monika Dabrowska
 
 
