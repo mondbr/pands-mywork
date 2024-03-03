@@ -1,6 +1,6 @@
 # multiply.py
 # this program is to multiply numbers
-# author: Monika Dabrowska
+# author: Monika Dabrowska 
 
 '''
 answer = 111 * 555
