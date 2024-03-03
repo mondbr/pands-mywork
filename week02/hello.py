@@ -9,7 +9,7 @@ print ("Hello")
 name = "Monika"
 print('hello '+ name)
 '''
-# the above won't work (excercise)
+# The above won't work (excercise)
 
 
 # Displying the result
