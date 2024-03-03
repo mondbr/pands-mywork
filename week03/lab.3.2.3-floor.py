@@ -11,7 +11,7 @@ import math
 number_to_floor = float(input("Enter a float number: "))
 
 # Use math.foor() to round down the float to the nearest integer
-floored_number = (math.floor(abs(number_to_floor)))
+floored_number = (math.floor(abs(number_to_floor))) #abs is added to take absolute number
 
 
 # Prints the result
