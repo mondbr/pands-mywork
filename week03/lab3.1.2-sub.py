@@ -11,7 +11,7 @@ y = int(input("Enter your second number: "))
 
 # if we enter a string or float, it will cause an error
 
-answer = x-y
+answer = int(x-y)
 
 print("{} minus {} is {}".format(x, y, answer))
 
