@@ -24,10 +24,12 @@ me = {
     ]
 } 
 
+
+
 variables = [number_of_questions, average_age, debug_mode, name, ages, months, book, stuff, someone, me]
 
-for var in variables:
-    var_type = type(var)
 
+for variable in variables:
+    print(type(variable))
 
-print (type(var_type))
+    ### END
